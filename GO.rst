@@ -8,9 +8,6 @@ WT_FP over WT_RNA
 GO:0006950 Response to Stress  
 --------------------------------
 
-.. literalinclude:: WT_FP_WT_RNA.50.0.GO_0006950.summary.txt 
-.. raw:: html 
-   <br />
 
 .. image:: WT_FP_WT_RNA.50.0.GO_0006950.Length.Histogram.png
    :width: 400 
@@ -48,9 +45,6 @@ GO:0006950 Response to Stress
 GO:0006951 Response to Salt Stress
 ------------------------------------
 
-.. literalinclude:: WT_FP_WT_RNA.50.0.GO_0009651.summary.txt
-.. raw:: html
-   <br />
 
 .. image:: WT_FP_WT_RNA.50.0.GO_0009651.Length.Histogram.png
    :width: 400
@@ -90,10 +84,6 @@ GO:0006951 Response to Salt Stress
 GO:0007049 CellCycle
 --------------------------
 
-.. literalinclude:: WT_FP_WT_RNA.50.0.GO_0007049.summary.txt 
-
-.. raw:: html 
-   <br />
 
 .. image:: WT_FP_WT_RNA.50.0.GO_0007049.Length.Histogram.png
    :width: 400 
@@ -137,10 +127,6 @@ GO:0007049 CellCycle
 
 GO:0023052 Signaling  
 --------------------------
-.. literalinclude:: WT_FP_WT_RNA.50.0.GO_0023052.summary.txt
-
-.. raw:: html
-   <br />
 
 .. image:: WT_FP_WT_RNA.50.0.GO_0023052.Length.Histogram.png
    :width: 400
@@ -185,10 +171,6 @@ GO:0023052 Signaling
 GO:0042254 Ribosome Biogenesis  
 -----------------------------------
 
-.. literalinclude:: WT_FP_WT_RNA.50.0.GO_0042254.summary.txt
-
-.. raw:: html
-   <br />
 
 .. image:: WT_FP_WT_RNA.50.0.GO_0042254.Length.Histogram.png
    :width: 400
@@ -239,10 +221,6 @@ GO:0016458 Gene Silencing
 ------------------------------- 
 
 
-.. literalinclude:: WT_FP_WT_RNA.50.0.GO_0016458.summary.txt
-
-.. raw:: html
-   <br />
 
 .. image:: WT_FP_WT_RNA.50.0.GO_0016458.Length.Histogram.png
    :width: 400
@@ -287,10 +265,6 @@ GO:0016458 Gene Silencing
 GO:0006119 Oxidative Phosphorylation  
 ------------------------------------------
 
-.. literalinclude:: WT_FP_WT_RNA.50.0.GO_0006119.summary.txt 
-
-.. raw:: html 
-   <br />
 
 .. image:: WT_FP_WT_RNA.50.0.GO_0006119.Length.Histogram.png
    :width: 400 
@@ -335,9 +309,6 @@ GO:0006119 Oxidative Phosphorylation
 
 GO:0006412 Translation
 ---------------------------
-.. literalinclude:: WT_FP_WT_RNA.50.0.GO_0006412.summary.txt
-.. raw:: html
-   <br />
 
 .. image:: WT_FP_WT_RNA.50.0.GO_0006412.Length.Histogram.png
    :width: 400
