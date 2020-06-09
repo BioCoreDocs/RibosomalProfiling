@@ -10,4 +10,5 @@ Authors: Sherine Awad and Davide Chiarugi
    :caption: Contents:
    
    GO.rst
-   
+   SNPs.rst 
+
