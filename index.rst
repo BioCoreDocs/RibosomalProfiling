@@ -12,5 +12,6 @@ Authors: Sherine Awad and Davide Chiarugi
    FP_RNA.rst
    GO.rst
    SNPs.rst
-   zSNPs.rst 
+   zSNPs.rst
+   Chr.rst  
 
