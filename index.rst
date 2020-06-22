@@ -16,5 +16,6 @@ Authors: Sherine Awad and Davide Chiarugi
    zSNPs.rst
    Chr.rst 
    TPM.rst
-   GC.rst  
+   GC.rst
+   Orthog.rst   
 
