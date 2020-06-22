@@ -7,9 +7,6 @@ Human
 --------
 
 
-WT_FP
-#########
-
 
 .. literalinclude:: WT_FP_WT_RNA.50.0.yeastorthogoloustohuman.summary.txt 
 
