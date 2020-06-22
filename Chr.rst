@@ -329,6 +329,210 @@ Chr VII
    :width: 400
    :alt:  WT_FP_WT_RNA.50.0.yeastchrVII.regression
 
+
+Chr VIII
+----------
+
+.. literalinclude:: WT_FP_WT_RNA.50.0.yeastchrVIII.summary.txt
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrVIII.Length.Histogram.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrVIII.histogram
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrVIII.NoLog.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrVIII.nolog
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrVIII.LogLinear.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrVIII.loglinear
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrVIII.LogLog.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrVIII.loglog
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrVIII.Pregression.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrVIII.pregression
+.. raw:: html
+   <br />
+.. image:: WT_FP_WT_RNA.50.0.yeastchrVIII.regression.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrVIII.regression
+
+
+Chr X
+-----------------
+
+.. literalinclude:: WT_FP_WT_RNA.50.0.yeastchrX.summary.txt
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrX.Length.Histogram.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrX.histogram
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrX.NoLog.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrX.nolog
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrX.LogLinear.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrX.loglinear
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrX.LogLog.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrX.loglog
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrX.Pregression.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrX.pregression
+.. raw:: html
+   <br />
+.. image:: WT_FP_WT_RNA.50.0.yeastchrX.regression.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrX.regression
+
+
+Chr XI
+-----------------
+
+.. literalinclude:: WT_FP_WT_RNA.50.0.yeastchrXI.summary.txt
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXI.Length.Histogram.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXI.histogram
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXI.NoLog.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXI.nolog
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXI.LogLinear.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXI.loglinear
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXI.LogLog.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXI.loglog
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXI.Pregression.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXI.pregression
+.. raw:: html
+   <br />
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXI.regression.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXI.regression
+
+Chr XII
+-----------------
+
+.. literalinclude:: WT_FP_WT_RNA.50.0.yeastchrXII.summary.txt
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXII.Length.Histogram.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXII.histogram
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXII.NoLog.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXII.nolog
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXII.LogLinear.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXII.loglinear
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXII.LogLog.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXII.loglog
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXII.Pregression.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXII.pregression
+.. raw:: html
+   <br />
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXII.regression.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXII.regression
+
+
+Chr XIII
+-----------------
+
+.. literalinclude:: WT_FP_WT_RNA.50.0.yeastchrXIII.summary.txt
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXIII.Length.Histogram.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXIII.histogram
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXIII.NoLog.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXIII.nolog
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXIII.LogLinear.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXIII.loglinear
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXIII.LogLog.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXIII.loglog
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXIII.Pregression.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXIII.pregression
+.. raw:: html
+   <br />
+.. image:: WT_FP_WT_RNA.50.0.yeastchrXIII.regression.png
+   :width: 400
+   :alt:  WT_FP_WT_RNA.50.0.yeastchrXIII.regression
+
 Chr XV
 -----------------
 
