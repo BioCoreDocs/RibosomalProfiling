@@ -1,0 +1,96 @@
+====================================================
+**Orthogolous Plots**
+====================================================
+
+
+Human
+--------
+
+
+WT_FP
+#########
+
+
+.. literalinclude:: WT_FP_WT_RNA.50.0.yeastorthogoloustohuman.summary.txt 
+
+.. raw:: html 
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastorthogoloustohuman.NoLog.png
+   :width: 400
+   :alt:  WT_FP.WT_FP.50.0.nolog
+
+.. raw:: html 
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastorthogoloustohuman.LogLinear.png
+   :width: 400 
+   :alt:  WT_FP.WT_FP.50.0.loglinear
+
+.. raw:: html 
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastorthogoloustohuman.LogLog.png
+   :width: 400
+   :alt:  WT_FP.WT_FP.50.0.loglog
+
+.. raw:: html 
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastorthogoloustohuman.regression.png
+   :width: 400
+   :alt:  WT_FP.WT_FP.50.0.pregression
+
+.. raw:: html 
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastorthogoloustohuman.regression.png
+   :width: 400
+   :alt:  WT_FP.WT_FP.50.0.regression
+
+
+
+Mouse
+-------
+
+
+
+.. literalinclude:: WT_FP_WT_RNA.50.0.yeastorthogoloustomouse.summary.txt
+
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastorthogoloustomouse.NoLog.png
+   :width: 400
+   :alt:  WT_FP.WT_FP.50.0.nolog
+
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastorthogoloustomouse.LogLinear.png
+   :width: 400
+   :alt:  WT_FP.WT_FP.50.0.loglinear
+
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastorthogoloustomouse.LogLog.png
+   :width: 400
+   :alt:  WT_FP.WT_FP.50.0.loglog
+
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastorthogoloustomouse.regression.png
+   :width: 400
+   :alt:  WT_FP.WT_FP.50.0.pregression
+
+.. raw:: html
+   <br />
+
+.. image:: WT_FP_WT_RNA.50.0.yeastorthogoloustomouse.regression.png
+   :width: 400
+   :alt:  WT_FP.WT_FP.50.0.regression
+
+
+
