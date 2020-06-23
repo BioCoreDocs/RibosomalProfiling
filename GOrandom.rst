@@ -2,6 +2,11 @@
 **GO random  FP/RNA Plots**
 ====================================================
 
+WT_FP over WT_RNA 
+######################
+
+
+
 GO:0023052 Signaling  
 --------------------------
 .. literalinclude:: WT_FP_WT_RNA.50.0.GO_0023052_random.summary.txt
@@ -140,6 +145,151 @@ GO:0006412 Translation
 .. image:: WT_FP_WT_RNA.50.0.GO_0006412_random.Pregression.png
    :width: 400
    :alt:  WT_FP_WT_RNA.50.0.GO_0006412_random.Pregression
+
+
+
+SRR5945809 over SRR5945808
+#############################
+
+
+GO:0023052 Signaling  
+--------------------------
+.. literalinclude:: SRR5945809_SRR5945808.50.0.GO_0023052_random.summary.txt
+
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0023052_random.Length.Histogram.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0023052.histogram
+
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0023052_random.NoLog.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0023052.nolog
+
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0023052_random.LogLinear.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0023052.loglinear
+
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0023052_random.LogLog.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0023052.loglog
+
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0023052_random.regression.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0023052_random.regression
+
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0023052_random.Pregression.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0023052_random.Pregression
+
+
+GO:0042254 Ribosome Biogenesis  
+-----------------------------------
+
+.. literalinclude:: SRR5945809_SRR5945808.50.0.GO_0042254_random.summary.txt
+
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0042254_random.Length.Histogram.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0042254.histogram
+
+.. raw:: html
+   <br />
+
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0042254_random.NoLog.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0042254.nolog
+
+.. raw:: html
+   <br />
+
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0042254_random.LogLinear.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0042254.loglinear
+
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0042254_random.LogLog.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0042254.loglog
+
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0042254_random.regression.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0042254_random.regression
+
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0042254_random.Pregression.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0042254_random.Pregression
+
+.. raw:: html
+   <br />
+   
+
+GO:0006412 Translation
+---------------------------
+.. literalinclude:: SRR5945809_SRR5945808.50.0.GO_0006412_random.summary.txt
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0006412_random.Length.Histogram.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0006412.histogram
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0006412_random.NoLog.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0006412.nolog
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0006412_random.LogLinear.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0006412.loglinear
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0006412_random.LogLog.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0006412.loglog
+.. raw:: html
+   <br />
+
+.. image:: SRR5945809_SRR5945808.50.0.GO_0006412_random.regression.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0006412_random.regression
+.. raw:: html
+   <br />
+.. image:: SRR5945809_SRR5945808.50.0.GO_0006412_random.Pregression.png
+   :width: 400
+   :alt:  SRR5945809_SRR5945808.50.0.GO_0006412_random.Pregression
 
 
 
