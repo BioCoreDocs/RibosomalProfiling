@@ -1,0 +1,6 @@
+Summary of run on sample <built-in function sample> with binsize is 50 and mode is  0
+In this run we considered genes with length between 0 and  1920
+The maximum gene length in this run is  1920
+The value of the first bin is  1.2318323280030565
+The value of the last bin is 0.6306376432613284
+Number of genes in this run is 287
