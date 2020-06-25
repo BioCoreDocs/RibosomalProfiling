@@ -5,9 +5,6 @@
 WT_FP over WT_RNA
 #######################
 
-WT_FP / WT_RNA Zero SNPs 
--------------------------------------
-
 
 .. image:: WT_FP_WT_RNA.50.0.WT_FP_zero.Length.Histogram.png
    :width: 400
@@ -52,10 +49,6 @@ WT_FP / WT_RNA Zero SNPs
 
 SRR5945809 over SRR5945808
 #######################
-
-SRR5945809 over SRR5945808 Zero SNPs 
--------------------------------------
-
 
 .. image:: SRR5945809_SRR5945808.50.0.SRR5945809_zero.Length.Histogram.png
    :width: 400

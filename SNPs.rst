@@ -1,12 +1,9 @@
 ====================================================
-**SNPs Plots**
+**One or more SNPs Plots**
 ====================================================
 
 WT_FP over WT_RNA 
 #######################
-
-WT_FP / WT_RNA One or more SNPs 
--------------------------------------
 
 
 .. image:: WT_FP_WT_RNA.50.0.WT_FP_1.Length.Histogram.png
@@ -48,9 +45,6 @@ WT_FP / WT_RNA One or more SNPs
 
 SRR5945809 over SRR5945808
 ###########################
-
-SRR5945809 over SRR5945808 One or more SNPs 
------------------------------------------------
 
 
 .. image:: SRR5945809_SRR5945808.50.0.SRR5945809_1.Length.Histogram.png
