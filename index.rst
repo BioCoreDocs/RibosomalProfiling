@@ -14,9 +14,9 @@ Authors: Sherine Awad and Davide Chiarugi
    GO.rst
    GOrandom.rst
    SNPs.rst
-   zSNPs.rst
-   Chr.rst 
-   TPM.rst
-   GC.rst
-   Orthog.rst   
+   #zSNPs.rst
+   #Chr.rst 
+   #TPM.rst
+   #GC.rst
+   #Orthog.rst   
 
