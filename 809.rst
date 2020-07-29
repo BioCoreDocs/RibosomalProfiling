@@ -6,7 +6,7 @@
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR5945809_SRR5945808.50.Length.Histogram.png 
+.. image:: SRR5945809_SRR5945808.50.0.14732.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
