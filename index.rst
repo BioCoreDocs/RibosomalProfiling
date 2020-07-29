@@ -10,10 +10,10 @@ Authors: Sherine Awad and Davide Chiarugi
    :caption: Contents:
 
    809.rst 
-   FP_RNA.rst
-   GO.rst
-   GOrandom.rst
-   SNPs.rst
+   #FP_RNA.rst
+   #GO.rst
+   #GOrandom.rst
+   #SNPs.rst
    #zSNPs.rst
    #Chr.rst 
    #TPM.rst
