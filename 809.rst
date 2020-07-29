@@ -7,16 +7,13 @@ Linear Regression
 ###################
 
 .. image:: SRR5945809_SRR5945808.50.0.14732.LR.png 
-   :width: 25%
+   :width: 33.3%
 
 .. image:: SRR5945809_SRR5945808.50.100.4740.LR.png  
-   :width: 25% 
-
-.. image:: SRR5945809_SRR5945808.50.200.3969.LR.png
-   :width: 25%
+   :width: 33.3% 
 
 .. image:: SRR5945809_SRR5945808.50.500.2931.LR.png
-   :width: 25%
+   :width: 33.3%
 
 .. raw:: html
    <br />
