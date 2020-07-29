@@ -3,6 +3,47 @@
 ===================================================
 
 
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5945809_SRR5945808.50.Length.Histogram.png 
+   :width: 100% 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+.. image:: SRR5945809_SRR5945808.50.0.14732.LogLinear.png 
+   :width: 33.3%
+
+.. image:: SRR5945809_SRR5945808.50.100.4740.LogLinear.png  
+   :width: 33.3% 
+
+.. image:: SRR5945809_SRR5945808.50.500.2931.LogLinear.png
+   :width: 33.3%
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5945809_SRR5945808.50.0.14732.LogLog.png 
+   :width: 33.3%
+
+.. image:: SRR5945809_SRR5945808.50.100.4740.LogLog.png  
+   :width: 33.3% 
+
+.. image:: SRR5945809_SRR5945808.50.500.2931.LogLog.png
+   :width: 33.3%
+
+.. raw:: html
+   <br />
+
+
 Linear Regression 
 ###################
 
