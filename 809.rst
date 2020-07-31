@@ -11,7 +11,7 @@ SRR5945809 over SRR5945808
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR5945809_SRR5945808.50.0.14732.Length.Histogram.png 
+.. image:: SRR5945809_SRR5945808.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -20,17 +20,14 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.50.0.14732.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.50.0.LogLinear.png 
    :width: 33.3%
-   :alt: Cutoff = 0 
 
-.. image:: SRR5945809_SRR5945808.50.100.4740.LogLinear.png  
+.. image:: SRR5945809_SRR5945808.50.100.gLogLinear.png  
    :width: 33.3% 
-   :alt: Cutoff =100 
 
-.. image:: SRR5945809_SRR5945808.50.500.2931.LogLinear.png
+.. image:: SRR5945809_SRR5945808.50.500.LogLinear.png
    :width: 33.3%
-   :alt: Cutoff = 500 
 .. raw:: html
    <br />
 
@@ -38,18 +35,15 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.50.0.14732.LogLog.png 
+.. image:: SRR5945809_SRR5945808.50.0.LogLog.png 
    :width: 33.3%
-   :alt: Cutoff = 0 
 
 
-.. image:: SRR5945809_SRR5945808.50.100.4740.LogLog.png  
+.. image:: SRR5945809_SRR5945808.50.100.gLogLog.png  
    :width: 33.3%  
-   :alt: Cutoff = 100
 
-.. image:: SRR5945809_SRR5945808.50.500.2931.LogLog.png
+.. image:: SRR5945809_SRR5945808.50.500.LogLog.png
    :width: 33.3%
-   :alt: Cutoff = 500
 
 .. raw:: html
    <br />
@@ -58,17 +52,14 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.50.0.14732.LR.png 
+.. image:: SRR5945809_SRR5945808.50.0.LR.png 
    :width: 33.3%
-   :alt: Cutoff = 0 
 
-.. image:: SRR5945809_SRR5945808.50.100.4740.LR.png  
+.. image:: SRR5945809_SRR5945808.50.100.gLR.png  
    :width: 33.3% 
-   :alt: Cutoff = 100
 
-.. image:: SRR5945809_SRR5945808.50.500.2931.LR.png
+.. image:: SRR5945809_SRR5945808.50.500.LR.png
    :width: 33.3%
-   :alt: Cutoff = 500 
 
 .. raw:: html
    <br />
