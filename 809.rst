@@ -20,13 +20,13 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.50.0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808_50_0.LogLinear.png 
    :width: 33.3%
 
-.. image:: SRR5945809_SRR5945808.50.100.gLogLinear.png  
+.. image:: SRR5945809_SRR5945808_50_100.gLogLinear.png  
    :width: 33.3% 
 
-.. image:: SRR5945809_SRR5945808.50.500.LogLinear.png
+.. image:: SRR5945809_SRR5945808_50_500.LogLinear.png
    :width: 33.3%
 .. raw:: html
    <br />
@@ -35,14 +35,14 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.50.0.LogLog.png 
+.. image:: SRR5945809_SRR5945808_50_0.LogLog.png 
    :width: 33.3%
 
 
-.. image:: SRR5945809_SRR5945808.50.100.gLogLog.png  
+.. image:: SRR5945809_SRR5945808_50_100.gLogLog.png  
    :width: 33.3%  
 
-.. image:: SRR5945809_SRR5945808.50.500.LogLog.png
+.. image:: SRR5945809_SRR5945808_50_500.LogLog.png
    :width: 33.3%
 
 .. raw:: html
@@ -52,13 +52,13 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.50.0.LR.png 
+.. image:: SRR5945809_SRR5945808_50_0.LR.png 
    :width: 33.3%
 
-.. image:: SRR5945809_SRR5945808.50.100.gLR.png  
+.. image:: SRR5945809_SRR5945808_50_100.gLR.png  
    :width: 33.3% 
 
-.. image:: SRR5945809_SRR5945808.50.500.LR.png
+.. image:: SRR5945809_SRR5945808_50_500.LR.png
    :width: 33.3%
 
 .. raw:: html
