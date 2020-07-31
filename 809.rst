@@ -20,7 +20,7 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. og genes to support a position to be counted in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808_50_0.LogLinear.png 
