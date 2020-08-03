@@ -1,8 +1,8 @@
 ====================================================
-**GO: SRR5945809 over SRR5945808** 
+**GO:SRR5945809 over SRR5945808** 
 ====================================================
 
-GO_0006119
+GO0006119
 ------------
 
 Histogram of Genes' Length 
@@ -21,7 +21,7 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0006119_50_0.LogLinear.png 
-   :width: 25%
+   :width: 400
 
 .. raw:: html
    <br />
@@ -31,7 +31,7 @@ Log Log Plots
 ###################
 
 .. image:: SRR5945809_SRR5945808.GO_0006119_50_0.LogLog.png 
-   :width: 25%
+   :width: 400
 
 
 .. raw:: html
@@ -42,14 +42,14 @@ Linear Regression
 ###################
 
 .. image:: SRR5945809_SRR5945808.GO_0006119_50_0.LR.png 
-   :width: 25%
+   :width: 400
 
 .. raw:: html
    <br />
 
 
 
-GO_0006406
+GO0006406
 -------------
 
 Histogram of Genes' Length 
@@ -68,7 +68,7 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0006406_50_0.LogLinear.png 
-   :width: 25%
+   :width: 400
 
 .. raw:: html
    <br />
@@ -78,7 +78,7 @@ Log Log Plots
 ###################
 
 .. image:: SRR5945809_SRR5945808.GO_0006406_50_0.LogLog.png 
-   :width: 25%
+   :width: 400
 
 
 .. raw:: html
@@ -89,14 +89,14 @@ Linear Regression
 ###################
 
 .. image:: SRR5945809_SRR5945808.GO_0006406_50_0.LR.png 
-   :width: 25%
+   :width: 400
 
 .. raw:: html
    <br />
 
 
 
-GO_0006412
+GO0006412
 -------------
 
 Histogram of Genes' Length 
@@ -115,7 +115,7 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0006412_50_0.LogLinear.png 
-   :width: 25%
+   :width: 400
 
 .. raw:: html
    <br />
@@ -125,7 +125,7 @@ Log Log Plots
 ###################
 
 .. image:: SRR5945809_SRR5945808.GO_0006412_50_0.LogLog.png 
-   :width: 25%
+   :width: 400
 
 
 .. raw:: html
@@ -136,14 +136,14 @@ Linear Regression
 ###################
 
 .. image:: SRR5945809_SRR5945808.GO_0006412_50_0.LR.png 
-   :width: 25%
+   :width: 400
 
 .. raw:: html
    <br />
 
 
 
-GO_0006950
+GO0006950
 -------------
 
 Histogram of Genes' Length 
@@ -162,7 +162,7 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0006950_50_0.LogLinear.png 
-   :width: 25%
+   :width: 400
 
 .. raw:: html
    <br />
@@ -172,7 +172,7 @@ Log Log Plots
 ###################
 
 .. image:: SRR5945809_SRR5945808.GO_0006950_50_0.LogLog.png 
-   :width: 25%
+   :width: 400
 
 
 .. raw:: html
@@ -183,14 +183,14 @@ Linear Regression
 ###################
 
 .. image:: SRR5945809_SRR5945808.GO_0006950_50_0.LR.png 
-   :width: 25%
+   :width: 400
 
 .. raw:: html
    <br />
 
 
 
-GO_0009651
+GO0009651
 -------------
 
 Histogram of Genes' Length 
@@ -237,7 +237,7 @@ Linear Regression
 
 
 
-.GO_0016458
+GO0016458
 -------------
 
 Histogram of Genes' Length 
@@ -284,7 +284,7 @@ Linear Regression
 
 
 
-.GO_0031047
+GO0031047
 -------------
 
 Histogram of Genes' Length 
@@ -331,7 +331,7 @@ Linear Regression
 
 
 
-.GO_0031990
+GO0031990
 -------------
 
 Histogram of Genes' Length 
@@ -378,7 +378,7 @@ Linear Regression
 
 
 
-.GO_0042254
+GO0042254
 -------------
 
 Histogram of Genes' Length 
