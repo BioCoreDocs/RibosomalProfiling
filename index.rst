@@ -11,7 +11,8 @@ Authors: Sherine Awad and Davide Chiarugi
 
    809.rst 
    809_GO.rst
-   809_chr.rst 
+   809_chr.rst
+   809_orth.rst 
    #FP_RNA.rst
    #GO.rst
    #GOrandom.rst
