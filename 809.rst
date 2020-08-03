@@ -5,7 +5,7 @@
 
 
 
-SRR5945809 over SRR5945808 
+SRR5945809/SRR5945808 
 -------------------------------
 
 Histogram of Genes' Length 
