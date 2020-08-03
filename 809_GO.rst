@@ -1,0 +1,82 @@
+====================================================
+**Case Studies**
+===================================================
+
+
+
+
+GO: SRR5945809 over SRR5945808 
+-------------------------------
+
+GO_0006119
+--------------
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5945809_SRR5945808.GO_0006119.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_0.LogLinear.png 
+   :width: 25%
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_100.LogLinear.png  
+   :width: 25% 
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_200.LogLinear.png
+   :width: 25%
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_500.LogLinear.png
+   :width: 25%
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_0.LogLog.png 
+   :width: 25%
+
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_100.LogLog.png  
+   :width: 25%  
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_200.LogLog.png  
+   :width: 25%
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_500.LogLog.png
+   :width: 25%
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_0.LR.png 
+   :width: 25%
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_100.LR.png  
+   :width: 25% 
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_200.LR.png
+   :width: 25%
+
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_500.LR.png
+   :width: 25%
+
+.. raw:: html
+   <br />
+
+

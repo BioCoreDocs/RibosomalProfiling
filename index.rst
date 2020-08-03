@@ -10,6 +10,7 @@ Authors: Sherine Awad and Davide Chiarugi
    :caption: Contents:
 
    809.rst 
+   809_GO.rst 
    #FP_RNA.rst
    #GO.rst
    #GOrandom.rst
