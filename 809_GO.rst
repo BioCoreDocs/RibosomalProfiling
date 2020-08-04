@@ -2,8 +2,10 @@
 **GO** 
 ====================================================
 
+
 GO0006119
 ------------
+oxidative phosphorylation Gene Ontology Term
 
 Histogram of Genes' Length 
 ###############################
@@ -51,6 +53,8 @@ Linear Regression
 
 GO0006406
 -------------
+mRNA export from nucleus
+
 
 Histogram of Genes' Length 
 ###############################
@@ -98,6 +102,8 @@ Linear Regression
 
 GO0006412
 -------------
+Translation 
+
 
 Histogram of Genes' Length 
 ###############################
@@ -145,6 +151,7 @@ Linear Regression
 
 GO0006950
 -------------
+Response to stress 
 
 Histogram of Genes' Length 
 ###############################
@@ -192,6 +199,7 @@ Linear Regression
 
 GO0009651
 -------------
+Response to salt stress 
 
 Histogram of Genes' Length 
 ###############################
@@ -239,6 +247,7 @@ Linear Regression
 
 GO0016458
 -------------
+Gene silencing
 
 Histogram of Genes' Length 
 ###############################
@@ -286,6 +295,7 @@ Linear Regression
 
 GO0031047
 -------------
+Gene silencing by RNA 
 
 Histogram of Genes' Length 
 ###############################
@@ -333,6 +343,7 @@ Linear Regression
 
 GO0031990
 -------------
+Cellular Response to heat 
 
 Histogram of Genes' Length 
 ###############################
@@ -380,6 +391,7 @@ Linear Regression
 
 GO0042254
 -------------
+Ribosome biogenesis
 
 Histogram of Genes' Length 
 ###############################
