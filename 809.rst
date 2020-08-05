@@ -37,6 +37,10 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 
 .. image:: SRR5945809_SRR5945808_50_1000.LogLinear.png
    :width: 20%
+
+.. image:: SRR5945809_SRR5945808_50_2000.LogLinear.png
+   :width: 20%
+
 .. raw:: html
    <br />
 
@@ -60,6 +64,9 @@ Log Log Plots
 .. image:: SRR5945809_SRR5945808_50_1000.LogLog.png
    :width: 20%
 
+.. image:: SRR5945809_SRR5945808_50_2000.LogLog.png
+   :width: 20%
+
 .. raw:: html
    <br />
 
@@ -80,6 +87,9 @@ Linear Regression
    :width: 20%
 
 .. image:: SRR5945809_SRR5945808_50_1000.LR.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808_50_2000.LR.png
    :width: 20%
 
 .. raw:: html
