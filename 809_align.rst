@@ -2,8 +2,6 @@
 **Alignments Stats**
 ====================================================
 
-SRR5945809/SRR5945808
---------------------------
 
 **Confirming adpaters from authors in progress**
 
