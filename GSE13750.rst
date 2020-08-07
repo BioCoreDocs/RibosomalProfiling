@@ -41,6 +41,8 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 .. image:: fp-rich-1_mRNA-rich-1_50_1000.LogLinear.png
    :width: 20%
 
+.. image:: fp-rich-1_mRNA-rich-1_50_2000.LR.png
+   :width: 20%
 
 .. raw:: html
    <br />
@@ -65,6 +67,8 @@ Log Log Plots
 .. image:: fp-rich-1_mRNA-rich-1_50_1000.LogLog.png
    :width: 20%
 
+.. image:: fp-rich-1_mRNA-rich-1_50_2000.LR.png
+   :width: 20%
 
 .. raw:: html
    <br />
@@ -88,6 +92,8 @@ Linear Regression
 .. image:: fp-rich-1_mRNA-rich-1_50_1000.LR.png
    :width: 20%
 
+.. image:: fp-rich-1_mRNA-rich-1_50_2000.LR.png
+   :width: 20%
 
 .. raw:: html
    <br />
@@ -127,6 +133,8 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 .. image:: fp-starved-1_mRNA-starved-1_50_1000.LogLinear.png
    :width: 20%
 
+.. image:: fp-starved-1_mRNA-starved-1_50_2000.LogLog.png
+   :width: 20%
 
 .. raw:: html
    <br />
@@ -151,6 +159,8 @@ Log Log Plots
 .. image:: fp-starved-1_mRNA-starved-1_50_1000.LogLog.png
    :width: 20%
 
+.. image:: fp-starved-1_mRNA-starved-1_50_2000.LogLog.png
+   :width: 20%
 
 .. raw:: html
    <br />
@@ -174,6 +184,8 @@ Linear Regression
 .. image:: fp-starved-1_mRNA-starved-1_50_1000.LR.png
    :width: 20%
 
+.. image:: fp-starved-1_mRNA-starved-1_50_2000.LR.png
+   :width: 20%
 
 .. raw:: html
    <br />
