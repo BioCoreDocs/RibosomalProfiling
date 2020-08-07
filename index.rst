@@ -10,7 +10,8 @@ Authors: Sherine Awad and Davide Chiarugi
    :caption: Contents:
 
    809.rst
-   809_align.rst 
+   809_align.rst
+   809_snps.rst  
    809_tpm.rst
    809_GO.rst
    809_chr.rst
