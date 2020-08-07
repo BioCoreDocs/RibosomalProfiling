@@ -20,7 +20,9 @@ Authors: Sherine Awad and Davide Chiarugi
    GSE91068_align.rst
    GSE91068_tpm.rst
    GSE91068_GO.rst
-   GSE91068_ort.rst    
+   GSE91068_ort.rst
+   GSE13750.rst 
+
    #FP_RNA.rst
    #GO.rst
    #GOrandom.rst
