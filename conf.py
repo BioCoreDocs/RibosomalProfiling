@@ -13,9 +13,6 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-import wild_sphinx_theme
-html_theme = 'wild'
-html_theme_path = [wild_sphinx_theme.get_theme_dir()]
 
 # -- Project information -----------------------------------------------------
 
