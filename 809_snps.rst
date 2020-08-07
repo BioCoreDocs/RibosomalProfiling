@@ -69,7 +69,7 @@ Log Linear Plots
 Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
-.. image:: SRR5945808_SRR5945808.SRR5945808_zero_50_0_50_0.LogLinear.png 
+.. image:: SRR5945808_SRR5945808.SRR5945808_1_50_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -79,7 +79,7 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 Log Log Plots 
 ###################
 
-.. image:: SRR5945808_SRR5945808.SRR5945808_zero_50_0_50_0.LogLog.png 
+.. image:: SRR5945808_SRR5945808.SRR5945808_1_50_0.LogLog.png 
    :width: 400
 
 
@@ -90,7 +90,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945808_SRR5945808.SRR5945808_zero_50_0_50_0.LR.png 
+.. image:: SRR5945808_SRR5945808.SRR5945808_1_50_0.LR.png 
    :width: 400
 
 .. raw:: html
