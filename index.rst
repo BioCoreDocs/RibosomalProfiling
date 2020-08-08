@@ -1,6 +1,7 @@
 .. Ribosomal Profiling documentation
 
-Bio2Core Facility Protocols
+
+Ribosomal Profiling 
 ===============================================
 
 Authors: Sherine Awad and Davide Chiarugi 
