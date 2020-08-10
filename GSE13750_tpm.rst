@@ -1,18 +1,17 @@
 ====================================================
-**GSE13750:SNPs** 
+**GSE13750:TPM** 
 ====================================================
-
 
 fp-rich-1/mRNA-rich-1
 ************************
 
-Genes with Zero SNPs
-----------------------------
+TPM >50
+------------
 
 Histogram of Genes' Length 
 ###############################
 
-.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_zerosnps.Length.Histogram.png 
+.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_g50.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -24,7 +23,7 @@ Log Linear Plots
 Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
-.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_zerosnps_50_0.LogLinear.png 
+.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_g50_50_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -34,7 +33,7 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 Log Log Plots 
 ###################
 
-.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_zerosnps_50_0.LogLog.png 
+.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_g50_50_0.LogLog.png 
    :width: 400
 
 
@@ -45,7 +44,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_zerosnps_50_0.LR.png 
+.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_g50_50_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -55,13 +54,14 @@ Linear Regression
 
 
 
-Genes with at least one SNP
-------------------------------------------
+
+TPM < 50
+------------
 
 Histogram of Genes' Length 
 ###############################
 
-.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_1snps.Length.Histogram.png 
+.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_l50.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -73,7 +73,7 @@ Log Linear Plots
 Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
-.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_1snps_50_0.LogLinear.png 
+.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_l50_50_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -83,7 +83,7 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 Log Log Plots 
 ###################
 
-.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_1snps_50_0.LogLog.png 
+.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_l50_50_0.LogLog.png 
    :width: 400
 
 
@@ -94,12 +94,11 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_1snps_50_0.LR.png 
+.. image:: fp-rich-1_mRNA-rich-1.mRNA-rich-1_l50_50_0.LR.png 
    :width: 400
 
 .. raw:: html
    <br />
-
 
 
 
@@ -115,15 +114,15 @@ Linear Regression
 
 
 fp-starved-1/mRNA-starved-1
-*****************************
+********************************
 
-Genes with Zero SNPs
-----------------------------
+TPM >50
+------------
 
 Histogram of Genes' Length 
 ###############################
 
-.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_zerosnps.Length.Histogram.png 
+.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_g50.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -135,7 +134,7 @@ Log Linear Plots
 Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
-.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_zerosnps_50_0.LogLinear.png 
+.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_g50_50_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -145,7 +144,7 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 Log Log Plots 
 ###################
 
-.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_zerosnps_50_0.LogLog.png 
+.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_g50_50_0.LogLog.png 
    :width: 400
 
 
@@ -156,7 +155,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_zerosnps_50_0.LR.png 
+.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_g50_50_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -166,13 +165,14 @@ Linear Regression
 
 
 
-Genes with at least one SNP
-------------------------------------------
+
+TPM < 50
+------------
 
 Histogram of Genes' Length 
 ###############################
 
-.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_1snps.Length.Histogram.png 
+.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_l50.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -184,7 +184,7 @@ Log Linear Plots
 Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
-.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_1snps_50_0.LogLinear.png 
+.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_l50_50_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -194,7 +194,7 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 Log Log Plots 
 ###################
 
-.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_1snps_50_0.LogLog.png 
+.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_l50_50_0.LogLog.png 
    :width: 400
 
 
@@ -205,7 +205,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_1snps_50_0.LR.png 
+.. image:: fp-starved-1_mRNA-starved-1.mRNA-starved-1_l50_50_0.LR.png 
    :width: 400
 
 .. raw:: html

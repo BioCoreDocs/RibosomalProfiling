@@ -25,7 +25,8 @@ Authors: Sherine Awad and Davide Chiarugi
    GSE91068_chr.rst
    GSE91068_ort.rst
    GSE13750.rst
-   GSE13750_snps.rst  
+   GSE13750_snps.rst
+   GSE13750_tpm.rst   
    GSE13750_GO.rst
    GSE13750_chr.rst  
    GSE13750_orth.rst 
