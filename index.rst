@@ -27,6 +27,7 @@ Authors: Sherine Awad and Davide Chiarugi
    GSE13750.rst 
    GSE13750_GO.rst
    GSE13750_chr.rst  
+   GSE13750_orth.rst 
    GSE134152.rst 
 
    #FP_RNA.rst
