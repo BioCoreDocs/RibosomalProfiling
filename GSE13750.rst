@@ -191,3 +191,188 @@ Linear Regression
    <br />
 
 
+
+fp-rich-2/mRNA-rich-2
+**************************
+
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: fp-rich-2_mRNA-rich-2.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: fp-rich-2_mRNA-rich-2_50_0.LogLinear.png 
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_100.LogLinear.png  
+   :width: 20% 
+
+.. image:: fp-rich-2_mRNA-rich-2_50_200.LogLinear.png
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_500.LogLinear.png
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_1000.LogLinear.png
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_2000.LogLinear.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: fp-rich-2_mRNA-rich-2_50_0.LogLog.png 
+   :width: 20%
+
+
+.. image:: fp-rich-2_mRNA-rich-2_50_100.LogLog.png  
+   :width: 20%  
+
+.. image:: fp-rich-2_mRNA-rich-2_50_200.LogLog.png  
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_500.LogLog.png
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_1000.LogLog.png
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_2000.LogLog.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: fp-rich-2_mRNA-rich-2_50_0.LR.png 
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_100.LR.png  
+   :width: 20% 
+
+.. image:: fp-rich-2_mRNA-rich-2_50_200.LR.png
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_500.LR.png
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_1000.LR.png
+   :width: 20%
+
+.. image:: fp-rich-2_mRNA-rich-2_50_2000.LR.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
+fp-starved-2/mRNA-starved-2
+**************************
+
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: fp-starved-2_mRNA-starved-2.Length.Histogram.png  
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: fp-starved-2_mRNA-starved-2_50_0.LogLinear.png 
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_100.LogLinear.png  
+   :width: 20% 
+
+.. image:: fp-starved-2_mRNA-starved-2_50_200.LogLinear.png
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_500.LogLinear.png
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_1000.LogLinear.png
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_2000.LogLinear.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: fp-starved-2_mRNA-starved-2_50_0.LogLog.png 
+   :width: 20%
+
+
+.. image:: fp-starved-2_mRNA-starved-2_50_100.LogLog.png  
+   :width: 20%  
+
+.. image:: fp-starved-2_mRNA-starved-2_50_200.LogLog.png  
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_500.LogLog.png
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_1000.LogLog.png
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_2000.LogLog.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: fp-starved-2_mRNA-starved-2_50_0.LR.png 
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_100.LR.png  
+   :width: 20% 
+
+.. image:: fp-starved-2_mRNA-starved-2_50_200.LR.png
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_500.LR.png
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_1000.LR.png
+   :width: 20%
+
+.. image:: fp-starved-2_mRNA-starved-2_50_2000.LR.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
