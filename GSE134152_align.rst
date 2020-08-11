@@ -2,7 +2,7 @@
 **GSE134152:Stats**
 ====================================================
 
-
+**Adapters confirmed by Authors**
 
 +-------------+------------+------------------------+
 | Sample      | mRNA/FP    | Unique Alignment       |
