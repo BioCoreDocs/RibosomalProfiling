@@ -293,7 +293,7 @@ Linear Regression
 Histogram of Genes' Length 
 ###############################
 
-.. image:: gr4_SRR9670815.50.Length.Histogram.png  
+.. image:: gr4_SRR9670815.Length.Histogram.png   
    :width: 400 
 
 .. raw:: html
