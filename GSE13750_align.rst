@@ -3,6 +3,7 @@
 ====================================================
 
 
+**Adapters confirmation from authors in progress:email sent** 
 
 +---------------+------------+---------------------------------------------------+
 | Sample        | mRNA/FP    | Unique Alignment                                  |
