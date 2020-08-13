@@ -5,8 +5,9 @@
 Ribofilio is a tool to measure ribosomal profiling drop rate that has been tested in ecoli and yeast so far.
 
 
-Dependecies: 
-       
+Dependecies
+###############
+
        python 3.7 
 
 
@@ -16,7 +17,7 @@ Dependecies:
        screed 
 
 
-       And for plotting: 
+And for plotting: 
 
 
        matplotlib 
@@ -24,6 +25,9 @@ Dependecies:
 
        scikit-learn  
 
+
+Installation 
+#################
 
 To Install Ribofilio::
 
@@ -78,7 +82,7 @@ Where:
 Example 
 ########
 
-We will create two folders for galore and fastq:: 
+Running ribofilio on all gene:: 
    
     python ribofilio.py -t yeast.fa -f SRR5945809.bed -r SRR5945808.bed -b 50 -c 50 
 
@@ -91,3 +95,15 @@ To run ribofilio on a subset of genes::
 
 
     python ribofilio.py -t yeast.fa -f SRR5945809.bed -r SRR5945808.bed -b 50 -c 50 -s subsetofgenes.txt 
+
+Where subsetofgenes.txt is a list of genes: 
+
+        YDL067C
+        YGL187C
+        YGL191W
+        YHR051W
+        YIL111W
+        YLR038C
+        YLR395C
+        YMR256C
+        YNL052W
