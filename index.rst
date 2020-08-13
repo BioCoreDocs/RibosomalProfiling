@@ -10,7 +10,6 @@ Authors: Sherine Awad and Davide Chiarugi
    :maxdepth: 2
    :caption: Contents:
   
-   README.rst
    809.rst
    809_align.rst
    809_snps.rst  
