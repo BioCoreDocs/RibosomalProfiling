@@ -55,7 +55,7 @@ Where:
    ``--footprint or -f for footprint bed file (required)`` 
 
 
-   ``--mRNA or -r for mRNA bed file (if not available, droprate won't be normalized by mRNA)`` 
+   ``--mRNA or -r for mRNA bed file (if not available, drop rate won't be normalized by mRNA)`` 
 
 
    ``--subset or -s is a list of genes in file to run ribofilio on this subset only``
@@ -86,7 +86,7 @@ Running ribofilio on all gene::
    
     python ribofilio.py -t yeast.fa -f SRR5945809.bed -r SRR5945808.bed -b 50 -c 50 
 
-Where yeast.fa is the transcripts, is the bed file of footprints of sample SRR5945809.bed, SRR5945808.bed is the mRNA bed file, binsize is 50 and no cutoff is 50 which means
+Where yeast.fa is the transcripts, SRR5945809.bed is the bed file of footprints of sample, SRR5945808.bed is the mRNA bed file, binsize is 50 and no cutoff is 50 which means
 at least 50 genes should contribute to the reads in a position to be considered in bins. 
 
 
