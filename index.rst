@@ -9,7 +9,8 @@ Authors: Sherine Awad and Davide Chiarugi
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-  
+ 
+   example.rst 
    809.rst
    809_align.rst
    809_snps.rst  
