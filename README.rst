@@ -5,7 +5,7 @@
 Ribofilio is a tool to measure ribosomal profiling drop rate that has been tested in ecoli and yeast so far.
 
 
-Dependecies
+Dependencies
 ###############
 
        python 3.7 
