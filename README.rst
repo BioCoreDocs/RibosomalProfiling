@@ -45,33 +45,34 @@ or simply::
 Where: 
 
 
-   "--"transcript or -t for transcripts (required) 
+   ``--transcript or -t for transcripts (required)`` 
 
 
-   "--"footprint or -f for footprint bed file (required) 
+   ``--footprint or -f for footprint bed file (required)`` 
 
 
-   "--"mRNA or -r for mRNA bed file (if not available, droprate won't be normalized by mRNA) 
+   ``--mRNA or -r for mRNA bed file (if not available, droprate won't be normalized by mRNA)`` 
 
 
-   "--"subset or -s is a list of genes in file to run ribofilio on this subset only
-
-   "--"binsize or -b for binsize (default: 50) 
+   ``--subset or -s is a list of genes in file to run ribofilio on this subset only``
 
 
-   "--"cutoff or -c  for cutoff or minimum number of genes required to contribute to a position to be counted (default: 0)
+   ``--binsize or -b for binsize (default: 50)`` 
 
 
-   "--"ymin is the minimum y axis for linear plots (default: 0) 
+   ``--cutoff or -c  for cutoff or minimum number of genes required to contribute to a position to be counted (default: 0)``
 
 
-   "--"ymax is the maximum y axis for linear plots (default: 30) 
+   ``--ymin is the minimum y axis for linear plots (default: 0)`` 
 
 
-   "--"ylogmin is the minimum y axis for log plots (default: -5)
+   ``--ymax is the maximum y axis for linear plots (default: 30)``
 
 
-   "--"ylogmax is the maximum y axis for log plots (default: 5) 
+   ``--ylogmin is the minimum y axis for log plots (default: -5)``
+
+
+   ``--ylogmax is the maximum y axis for log plots (default: 5)``
 
 
 Example 
