@@ -100,26 +100,18 @@ Where subsetofgenes.txt is a list of genes:
 
         YDL067C
    
-   
         YGL187C
-   
    
         YGL191W
    
-   
         YHR051W
-   
    
         YIL111W
    
-   
         YLR038C
-   
    
         YLR395C
    
-   
         YMR256C
-   
    
         YNL052W
