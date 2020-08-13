@@ -57,12 +57,19 @@ And convert sam to a bam file::
     samtools view -S -b SRR5945808.bowtie2.sam > SRR5945808.bowtie2.bam
     samtools view -S -b SRR5945809.bowtie2.sam > SRR5945809.bowtie2.bam
 
+Prepare bedfiles
+###################
 
 Then convert bam to bed files for ribofilio:: 
 
 
     bedtools bamtobed -i SRR5945808.bowtie2.bam > SRR5945808.bed
     bedtools bamtobed -i SRR5945809.bowtie2.bam > SRR5945809.bed 
+
+
+Run Ribofilio
+################
+
 
 Then run ribosilio as follows:: 
 
