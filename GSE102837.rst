@@ -2,8 +2,8 @@
 **Dataset 1: GSE102837**
 ====================================================
 
-**SRR5945809/SRR5945808**
-------------------------------
+**Main: SRR5945809/SRR5945808**
+---------------------------------
 
 **Histogram of Genes' Length**
 
@@ -92,7 +92,7 @@ Linear Regression
    <br />
 
 
-**GSE102837:Stats**
+**Stats**
 -------------------------
 
 **Confirming adpaters from authors in progress**
@@ -106,12 +106,12 @@ Linear Regression
 +------------+------------+------------------+
 
 
-**GSE102837:TPM** 
+**TPM** 
 -------------------------
 
 
 TPM >50
-------------
+**********
 
 Histogram of Genes' Length 
 ###############################
@@ -159,7 +159,7 @@ Linear Regression
 
 
 TPM < 50
-------------
+***********
 
 Histogram of Genes' Length 
 ###############################
@@ -204,12 +204,12 @@ Linear Regression
    <br />
 
 
-**GSE102837:SNPs** 
+**SNPs** 
 -----------------------
 
 
 Genes with Zero SNPs
-----------------------------
+**************************
 
 Histogram of Genes' Length 
 ###############################
@@ -256,7 +256,7 @@ Linear Regression
 
 
 Genes with at least one SNP
-------------------------------------------
+*******************************
 
 Histogram of Genes' Length 
 ###############################
@@ -305,7 +305,8 @@ Linear Regression
 -----------------------
 
 GO0006119
-------------
+*************
+
 **Oxidative phosphorylation Gene Ontology Term**
 
 
@@ -354,7 +355,7 @@ Linear Regression
 
 
 GO0006406
--------------
+************* 
 **mRNA export from nucleus** 
 
 Histogram of Genes' Length 
@@ -402,7 +403,8 @@ Linear Regression
 
 
 GO0006412
--------------
+*************
+
 **Translation** 
 
 Histogram of Genes' Length 
@@ -450,7 +452,8 @@ Linear Regression
 
 
 GO0006950
--------------
+*************
+
 **Response to stress** 
 
 Histogram of Genes' Length 
@@ -498,7 +501,8 @@ Linear Regression
 
 
 GO0009651
--------------
+*************
+
 **Response to salt stress**
 
 Histogram of Genes' Length 
@@ -546,7 +550,8 @@ Linear Regression
 
 
 GO0016458
--------------
+*************
+
 **Gene silencing**
 
 Histogram of Genes' Length 
@@ -594,7 +599,8 @@ Linear Regression
 
 
 GO0031047
--------------
+*************
+
 **Gene silencing by RNA**
 
 
@@ -643,7 +649,8 @@ Linear Regression
 
 
 GO0031990
--------------
+************
+
 **Cellular Response to heat** 
 
 
@@ -692,7 +699,8 @@ Linear Regression
 
 
 GO0042254
--------------
+*************
+
 **Ribosome biogenesis**
 
 Histogram of Genes' Length 
@@ -845,7 +853,7 @@ Linear Regression
 
 
 ChrI
-------------
+
 
 Histogram of Genes' Length 
 ###############################
@@ -895,7 +903,6 @@ Linear Regression
 
 
 ChrII
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -945,7 +952,6 @@ Linear Regression
 
 
 ChrIII
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -995,7 +1001,6 @@ Linear Regression
 
 
 ChrIV
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1045,7 +1050,6 @@ Linear Regression
 
 
 ChrIX
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1095,7 +1099,6 @@ Linear Regression
 
 
 ChrVIII
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1141,11 +1144,7 @@ Linear Regression
 
 
 
-
-
-
 ChrVII
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1192,10 +1191,7 @@ Linear Regression
 
 
 
-
-
 ChrVI
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1241,11 +1237,7 @@ Linear Regression
 
 
 
-
-
-
 ChrV
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1295,7 +1287,6 @@ Linear Regression
 
 
 ChrXIII
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1341,11 +1332,7 @@ Linear Regression
 
 
 
-
-
-
 ChrXII
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1391,11 +1378,7 @@ Linear Regression
 
 
 
-
-
-
 ChrXI
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1440,12 +1423,7 @@ Linear Regression
    <br />
 
 
-
-
-
-
 ChrXIV
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1490,12 +1468,8 @@ Linear Regression
    <br />
 
 
-
-
-
-
 ChrX
-------------
+
 
 Histogram of Genes' Length 
 ###############################
@@ -1540,12 +1514,7 @@ Linear Regression
    <br />
 
 
-
-
-
-
 ChrXVI
-------------
 
 Histogram of Genes' Length 
 ###############################
@@ -1590,12 +1559,7 @@ Linear Regression
    <br />
 
 
-
-
-
-
 ChrXV
-------------
 
 Histogram of Genes' Length 
 ###############################
