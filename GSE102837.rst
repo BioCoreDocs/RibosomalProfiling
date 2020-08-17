@@ -297,7 +297,7 @@ Linear Regression
    <br />
 
 
-**GSE102837:GO** 
+**GO** 
 -----------------------
 
 GO0006119
@@ -742,11 +742,10 @@ Linear Regression
    <br />
 
 
-**GSE102837:Orthologous** 
+**Orthologous** 
 -----------------------------
 
-Human
-------------
+**Human**
 
 Histogram of Genes' Length 
 ###############################
@@ -795,8 +794,7 @@ Linear Regression
 
 
 
-Mouse
-------------
+**Mouse**
 
 Histogram of Genes' Length 
 ###############################
@@ -844,7 +842,7 @@ Linear Regression
 
 
 
-**GSE102837:Chromosomes** 
+**Chromosomes** 
 ----------------------------
 
 
