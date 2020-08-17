@@ -84,7 +84,7 @@ Linear Regression
 
 
 **Stats**
-*************
+-------------
 
 **Adapters confirmed by the authors**
 
@@ -97,8 +97,7 @@ Linear Regression
 +------------+------------+------------------+
 
 **TPM** 
-************
-
+----------
 
 **TPM >50**
 
@@ -197,7 +196,7 @@ Linear Regression
 
 
 **SNPs** 
-**************
+-------------
 **Genes with Zero SNPs**
 
 Histogram of Genes' Length 
@@ -294,7 +293,8 @@ Linear Regression
 
 
 **GO** 
-***********
+---------
+
 
 GO0006119
 
@@ -825,7 +825,8 @@ Linear Regression
 
 
 **Chromosomes** 
-*********************
+--------------------
+
 
 ChrI
 
@@ -1693,7 +1694,7 @@ Linear Regression
 
 
 **Stats**
-****************
+-------------
 
 **Adapters confirmed by the authors**
 
@@ -1806,7 +1807,7 @@ Linear Regression
 
 
 **SNPs** 
-*************
+-----------
 
 **Genes with Zero SNPs**
 
@@ -1904,7 +1905,7 @@ Linear Regression
 
 
 **GO** 
-************
+---------
 
 GO0006119
 
@@ -2335,7 +2336,7 @@ Linear Regression
 
 
 **Orthologous** 
-*********************
+------------------
 
 **Human**
 
@@ -2435,7 +2436,7 @@ Linear Regression
 
 
 **Chromosomes** 
-*********************
+-------------------
 
 ChrI
 
