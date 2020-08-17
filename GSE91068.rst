@@ -1,9 +1,3 @@
-====================================================
-**Case Studies**
-===================================================
-
-
-
 **Dataset 2: GSE91068**
 -------------------------------
 
@@ -89,87 +83,6 @@ Linear Regression
    <br />
 
 
-SRR5090936/SRR5090934
-***********************
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934_50_0.LogLinear.png 
-   :width: 20%
-
-.. image:: SRR5090936_SRR5090934_50_100.LogLinear.png  
-   :width: 20% 
-
-.. image:: SRR5090936_SRR5090934_50_200.LogLinear.png
-   :width: 20%
-
-.. image:: SRR5090936_SRR5090934_50_500.LogLinear.png
-   :width: 20%
-
-.. image:: SRR5090936_SRR5090934_50_1000.LogLinear.png
-   :width: 20%
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934_50_0.LogLog.png 
-   :width: 20%
-
-
-.. image:: SRR5090936_SRR5090934_50_100.LogLog.png  
-   :width: 20%  
-
-.. image:: SRR5090936_SRR5090934_50_200.LogLog.png  
-   :width: 20%
-
-.. image:: SRR5090936_SRR5090934_50_500.LogLog.png
-   :width: 20%
-
-.. image:: SRR5090936_SRR5090934_50_1000.LogLog.png
-   :width: 20%
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934_50_0.LR.png 
-   :width: 20%
-
-.. image:: SRR5090936_SRR5090934_50_100.LR.png  
-   :width: 20% 
-
-.. image:: SRR5090936_SRR5090934_50_200.LR.png
-   :width: 20%
-
-.. image:: SRR5090936_SRR5090934_50_500.LR.png
-   :width: 20%
-
-.. image:: SRR5090936_SRR5090934_50_1000.LR.png
-   :width: 20%
-
-.. raw:: html
-   <br />
-
-
 **Stats**
 ---------------------
 
@@ -190,8 +103,6 @@ Linear Regression
 **TPM** 
 ----------------------
 
-SRR5090937/SRR5090935
-***********************
 
 
 **TPM >50**
@@ -289,111 +200,9 @@ Linear Regression
 
 
 
-SRR5090936/SRR5090934
-***********************
-
-**TPM >50**
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_g50.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_g50_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_g50_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_g50_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-
-
-
-**TPM < 50**
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_l50.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_l50_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_l50_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_l50_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-
 
 **SNPs** 
 --------------
-
-SRR5090937/SRR5090935
-**************************
 
 **Genes with Zero SNPs**
 
@@ -489,109 +298,10 @@ Linear Regression
 
 
 
-SRR5090936/SRR5090934
-**************************
-
-
-**Genes with Zero SNPs**
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_zerosnps.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_zerosnps_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_zerosnps_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_zerosnps_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-
-
-**Genes with at least one SNP**
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_1snps.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_1snps_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_1snps_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.SRR5090934_1snps_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
 
 **GO** 
 --------------------------
 
-SRR5090937/SRR5090935
-*************************
 
 GO0006119
 
@@ -1020,438 +730,10 @@ Linear Regression
    <br />
 
 
-SRR5090936/SRR5090934
-************************
-
-GO0006119
-**Oxidative phosphorylation Gene Ontology Term**
-
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.GO_0006119.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.GO_0006119_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0006119_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0006119_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-GO0006406
-**mRNA export from nucleus** 
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.GO_0006406.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.GO_0006406_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0006406_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0006406_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-GO0006412
-**Translation** 
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.GO_0006412.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.GO_0006412_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0006412_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0006412_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-GO0006950
-**Response to stress** 
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.GO_0006950.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.GO_0006950_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0006950_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0006950_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-GO0009651
-**Response to salt stress**
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.GO_0009651.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.GO_0009651_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0009651_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0009651_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-GO0016458
-**Gene silencing**
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.GO_0016458.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.GO_0016458_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0016458_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0016458_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-GO0031047
-**Gene silencing by RNA**
-
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.GO_0031047.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.GO_0031047_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0031047_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0031047_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-GO0031990
-**Cellular Response to heat** 
-
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.GO_0031990.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.GO_0031990_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0031990_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0031990_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-GO0042254
-**Ribosome biogenesis**
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.GO_0042254.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.GO_0042254_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0042254_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.GO_0042254_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
 
 **Orthologous** 
 ------------------------------
 
-SRR5090937/SRR5090935
-**************************
 
 **Human**
 
@@ -1548,111 +830,11 @@ Linear Regression
 
 
 
-SRR5090936/SRR5090934
-*************************
-
-Human
-------------
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.yeastorthuman.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.yeastorthuman_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.yeastorthuman_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.yeastorthuman_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-
-
-
-Mouse
-------------
-
-Histogram of Genes' Length 
-###############################
-
-.. image:: SRR5090936_SRR5090934.yeastortmouse.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR5090936_SRR5090934.yeastortmouse_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-###################
-
-.. image:: SRR5090936_SRR5090934.yeastortmouse_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-###################
-
-.. image:: SRR5090936_SRR5090934.yeastortmouse_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
 
 
 **Chromosomes** 
 ------------------------------------
 
-
-SRR5090937_SRR5090935
-************************
 
 ChrI
 
@@ -2436,8 +1618,841 @@ Linear Regression
 
 
 
+
+
 SRR5090936/SRR5090934
-*************************
+************************
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934_50_0.LogLinear.png 
+   :width: 20%
+
+.. image:: SRR5090936_SRR5090934_50_100.LogLinear.png  
+   :width: 20% 
+
+.. image:: SRR5090936_SRR5090934_50_200.LogLinear.png
+   :width: 20%
+
+.. image:: SRR5090936_SRR5090934_50_500.LogLinear.png
+   :width: 20%
+
+.. image:: SRR5090936_SRR5090934_50_1000.LogLinear.png
+   :width: 20%
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934_50_0.LogLog.png 
+   :width: 20%
+
+
+.. image:: SRR5090936_SRR5090934_50_100.LogLog.png  
+   :width: 20%  
+
+.. image:: SRR5090936_SRR5090934_50_200.LogLog.png  
+   :width: 20%
+
+.. image:: SRR5090936_SRR5090934_50_500.LogLog.png
+   :width: 20%
+
+.. image:: SRR5090936_SRR5090934_50_1000.LogLog.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934_50_0.LR.png 
+   :width: 20%
+
+.. image:: SRR5090936_SRR5090934_50_100.LR.png  
+   :width: 20% 
+
+.. image:: SRR5090936_SRR5090934_50_200.LR.png
+   :width: 20%
+
+.. image:: SRR5090936_SRR5090934_50_500.LR.png
+   :width: 20%
+
+.. image:: SRR5090936_SRR5090934_50_1000.LR.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
+**Stats**
+---------------------
+
+**Adapters confirmed by the authors**
+
++------------+------------+------------------+
+| Sample     | mRNA/FP    | Unique Alignment |
++============+============+==================+
+| SRR5090934 | mRNA       |      33.88%      |
++------------+------------+------------------+
+| SRR5090936 | FP         |      24.21%      |
++------------+------------+------------------+
+| SRR5090934 | mRNA       |      34.21%      |
++------------+------------+------------------+
+| SRR5090936 | FP         |      26.10%      |
++------------+------------+------------------+
+
+**TPM** 
+----------------------
+
+
+
+**TPM >50**
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_g50.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_g50_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_g50_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_g50_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+
+
+
+**TPM < 50**
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_l50.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_l50_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_l50_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_l50_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+
+**SNPs** 
+--------------
+
+**Genes with Zero SNPs**
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_zerosnps.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_zerosnps_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_zerosnps_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_zerosnps_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+
+
+**Genes with at least one SNP**
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_1snps.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_1snps_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_1snps_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.SRR5090934_1snps_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+
+**GO** 
+--------------------------
+
+
+GO0006119
+
+**Oxidative phosphorylation Gene Ontology Term**
+
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.GO_0006119.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.GO_0006119_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0006119_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0006119_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+GO0006406
+
+**mRNA export from nucleus** 
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.GO_0006406.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.GO_0006406_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0006406_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0006406_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+GO0006412
+**Translation** 
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.GO_0006412.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.GO_0006412_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0006412_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0006412_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+GO0006950
+**Response to stress** 
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.GO_0006950.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.GO_0006950_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0006950_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0006950_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+GO0009651
+**Response to salt stress**
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.GO_0009651.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.GO_0009651_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0009651_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0009651_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+GO0016458
+**Gene silencing**
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.GO_0016458.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.GO_0016458_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0016458_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0016458_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+GO0031047
+**Gene silencing by RNA**
+
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.GO_0031047.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.GO_0031047_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0031047_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0031047_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+GO0031990
+**Cellular Response to heat** 
+
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.GO_0031990.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.GO_0031990_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0031990_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0031990_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+GO0042254
+**Ribosome biogenesis**
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.GO_0042254.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.GO_0042254_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0042254_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.GO_0042254_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+**Orthologous** 
+------------------------------
+
+
+**Human**
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.yeastorthuman.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.yeastorthuman_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.yeastorthuman_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.yeastorthuman_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+
+
+
+**Mouse**
+
+Histogram of Genes' Length 
+###############################
+
+.. image:: SRR5090936_SRR5090934.yeastortmouse.Length.Histogram.png 
+   :width: 400 
+
+.. raw:: html
+   <br />
+
+Log Linear Plots 
+###################
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
+
+
+.. image:: SRR5090936_SRR5090934.yeastortmouse_50_0.LogLinear.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+Log Log Plots 
+###################
+
+.. image:: SRR5090936_SRR5090934.yeastortmouse_50_0.LogLog.png 
+   :width: 400
+
+
+.. raw:: html
+   <br />
+
+
+Linear Regression 
+###################
+
+.. image:: SRR5090936_SRR5090934.yeastortmouse_50_0.LR.png 
+   :width: 400
+
+.. raw:: html
+   <br />
+
+
+
+
+
+**Chromosomes** 
+------------------------------------
+
 
 ChrI
 
