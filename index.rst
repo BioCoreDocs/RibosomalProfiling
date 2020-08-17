@@ -20,13 +20,13 @@ Authors: Sherine Awad and Davide Chiarugi
    #GSE91068_GO.rst
    #GSE91068_chr.rst
    #GSE91068_ort.rst
-   GSE13750.rst
-   GSE13750_align.rst 
-   GSE13750_snps.rst
-   GSE13750_tpm.rst   
-   GSE13750_GO.rst
-   GSE13750_chr.rst  
-   GSE13750_orth.rst 
+   GSE13750_1.rst
+   #GSE13750_align.rst 
+   #GSE13750_snps.rst
+   #GSE13750_tpm.rst   
+   #GSE13750_GO.rst
+   #GSE13750_chr.rst  
+   #GSE13750_orth.rst 
    GSE134152.rst
    GSE134152_align.rst
    GSE134152_tpm.rst  
