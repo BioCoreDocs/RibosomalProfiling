@@ -110,8 +110,7 @@ Linear Regression
 -------------------------
 
 
-TPM >50
-**********
+**TPM > 50**
 
 Histogram of Genes' Length 
 ###############################
@@ -158,8 +157,7 @@ Linear Regression
 
 
 
-TPM < 50
-***********
+**TPM < 50**
 
 Histogram of Genes' Length 
 ###############################
@@ -208,8 +206,7 @@ Linear Regression
 -----------------------
 
 
-Genes with Zero SNPs
-**************************
+**Genes with Zero SNPs**
 
 Histogram of Genes' Length 
 ###############################
@@ -255,8 +252,7 @@ Linear Regression
 
 
 
-Genes with at least one SNP
-*******************************
+**Genes with at least one SNP**
 
 Histogram of Genes' Length 
 ###############################
