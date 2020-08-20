@@ -27,12 +27,123 @@
 +------------+------------+------------------+
 
 
+**Running on a subset of short genes using --subset or -s** 
+
+
+Log Linear Plots
+###################
+
+
+.. image:: SRR5945809_SRR5945808.yeastGenes500_50_0.LogLinear.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808.yeastGenes1000_50_0.LogLinear.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808.yeastGenes2000_50_0.LogLinear.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+Log Log Plots
+###################
+
+
+.. image:: SRR5945809_SRR5945808.yeastGenes500_50_0.LogLog.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808.yeastGenes1000_50_0.LogLog.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808.yeastGenes2000_50_0.LogLog.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+Linear Regression Plots
+##########################
+
+
+.. image:: SRR5945809_SRR5945808.yeastGenes500_50_0.LR.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808.yeastGenes1000_50_0.LR.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808.yeastGenes2000_50_0.LR.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
+**Filtering based on End --end or -e**
+
+Here I use --end or -e as a cutoff for the last bin used in plotting, if e =0, all bins considered, if e = 10 then the last 10 bins are discarded in plottig. 
+This is another way of discarding noise. 
+
+Log Linear Plots
+###################
+
+
+.. image:: SRR5945809_SRR5945808_50_0_50.LogLinear.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808_50_0_100.LogLinear.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808_50_0_200.LogLinear.png
+   :width: 20%
+
+
+.. raw:: html
+   <br />
+
+Log Log Plots
+###################
+
+
+.. image:: SRR5945809_SRR5945808_50_0_50.LogLog.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808_50_0_100.LogLog.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808_50_0_200.LogLog.png
+   :width: 20%
+
+
+.. raw:: html
+   <br />
+
+
+
+Linear Regression Plots
+#########################
+
+
+.. image:: SRR5945809_SRR5945808_50_0_50.LR.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808_50_0_100.LR.png
+   :width: 20%
+
+.. image:: SRR5945809_SRR5945808_50_0_200.LR.png
+   :width: 20%
+
+
+.. raw:: html
+   <br />
+
+**Filtering based on cutoff --cutoff or -c** 
+
+Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff.
 
 
 Log Linear Plots 
 ###################
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808_50_0.LogLinear.png 
@@ -127,7 +238,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.SRR5945808_g50_50_0.LogLinear.png 
@@ -174,7 +284,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.SRR5945808_l50_50_0.LogLinear.png 
@@ -208,7 +317,6 @@ Linear Regression
 **SNPs** 
 -----------------------
 
-
 **Genes with Zero SNPs**
 
 Histogram of Genes' Length 
@@ -223,7 +331,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.SRR5945808_zerosnps_50_0.LogLinear.png 
@@ -269,7 +376,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.SRR5945808_1snps_50_0.LogLinear.png 
@@ -321,7 +427,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0006119_50_0.LogLinear.png 
@@ -369,7 +474,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0006406_50_0.LogLinear.png 
@@ -418,7 +522,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0006412_50_0.LogLinear.png 
@@ -467,7 +570,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0006950_50_0.LogLinear.png 
@@ -516,7 +618,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0009651_50_0.LogLinear.png 
@@ -565,7 +666,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0016458_50_0.LogLinear.png 
@@ -615,7 +715,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0031047_50_0.LogLinear.png 
@@ -665,7 +764,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0031990_50_0.LogLinear.png 
@@ -714,7 +812,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.GO_0042254_50_0.LogLinear.png 
@@ -762,7 +859,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastorthuman_50_0.LogLinear.png 
@@ -811,7 +907,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastortmouse_50_0.LogLinear.png 
@@ -864,7 +959,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrI_50_0.LogLinear.png 
@@ -913,7 +1007,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrII_50_0.LogLinear.png 
@@ -962,7 +1055,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrIII_50_0.LogLinear.png 
@@ -1011,7 +1103,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrIV_50_0.LogLinear.png 
@@ -1060,7 +1151,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrIX_50_0.LogLinear.png 
@@ -1109,7 +1199,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrVIII_50_0.LogLinear.png 
@@ -1155,7 +1244,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrVII_50_0.LogLinear.png 
@@ -1202,7 +1290,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrVI_50_0.LogLinear.png 
@@ -1248,7 +1335,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrV_50_0.LogLinear.png 
@@ -1297,7 +1383,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrXIII_50_0.LogLinear.png 
@@ -1343,7 +1428,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrXII_50_0.LogLinear.png 
@@ -1389,7 +1473,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrXI_50_0.LogLinear.png 
@@ -1434,7 +1517,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrXIV_50_0.LogLinear.png 
@@ -1480,7 +1562,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrX_50_0.LogLinear.png 
@@ -1525,7 +1606,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrXVI_50_0.LogLinear.png 
@@ -1570,7 +1650,6 @@ Histogram of Genes' Length
 Log Linear Plots 
 ###################
 
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
 
 .. image:: SRR5945809_SRR5945808.yeastchrXV_50_0.LogLinear.png 
