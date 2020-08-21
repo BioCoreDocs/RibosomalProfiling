@@ -89,13 +89,16 @@ Log Linear Plots
 
 
 .. image:: SRR5945809_SRR5945808_50_0_50.LogLinear.png
-   :width: 20%
+   :width: 25%
 
 .. image:: SRR5945809_SRR5945808_50_0_100.LogLinear.png
-   :width: 20%
+   :width: 25%
+
+.. image:: SRR5945809_SRR5945808_50_0_150.LogLinear.png
+   :width: 25%
 
 .. image:: SRR5945809_SRR5945808_50_0_200.LogLinear.png
-   :width: 20%
+   :width: 25%
 
 
 .. raw:: html
@@ -106,13 +109,16 @@ Log Log Plots
 
 
 .. image:: SRR5945809_SRR5945808_50_0_50.LogLog.png
-   :width: 20%
+   :width: 25%
 
 .. image:: SRR5945809_SRR5945808_50_0_100.LogLog.png
-   :width: 20%
+   :width: 25%
+
+.. image:: SRR5945809_SRR5945808_50_0_150.LogLog.png
+   :width: 25%
 
 .. image:: SRR5945809_SRR5945808_50_0_200.LogLog.png
-   :width: 20%
+   :width: 25%
 
 
 .. raw:: html
@@ -125,13 +131,16 @@ Linear Regression Plots
 
 
 .. image:: SRR5945809_SRR5945808_50_0_50.LR.png
-   :width: 20%
+   :width: 25%
 
 .. image:: SRR5945809_SRR5945808_50_0_100.LR.png
-   :width: 20%
+   :width: 25%
+
+.. image:: SRR5945809_SRR5945808_50_0_150.LR.png
+   :width: 25%
 
 .. image:: SRR5945809_SRR5945808_50_0_200.LR.png
-   :width: 20%
+   :width: 25%
 
 
 .. raw:: html
