@@ -1,9 +1,12 @@
 ====================================================
-**Dataset 4:GSE134152**
+**Dataset 4:GSE134152:GSM3938059/GSM3938057**
 ====================================================
 
+
+**Main**
+---------------
+
 **SRR9670822/SRR9670820**
----------------------------
 
 Histogram of Genes' Length 
 
@@ -14,11 +17,145 @@ Histogram of Genes' Length
 .. raw:: html
    <br />
 
-Log Linear Plots 
 
+**Stats**
+
+
+**Adapters confirmed by Authors**
+
++-------------+------------+------------------------+
+| Sample      | mRNA/FP    | Unique Alignment       |
++=============+============+========================+
+| SRR9670820  |    mRNA    |       32.21%           |
++-------------+------------+------------------------+
+| SRR9670822  |     FP     |       34.26%           |
++-------------+------------+------------------------+
+
+**Running on a subset of short genes using --subset or -s**
+
+
+Log Linear Plots
+###################
+
+
+.. image:: SRR9670822_SRR9670820.yeastGenes500_50_0_0.LogLinear.png
+   :width: 20%
+
+.. image:: SRR9670822_SRR9670820.yeastGenes1000_50_0_0.LogLinear.png
+   :width: 20%
+
+.. image:: SRR9670822_SRR9670820.yeastGenes2000_50_0_0.LogLinear.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+Log Log Plots
+###################
+
+
+.. image:: SRR9670822_SRR9670820.yeastGenes500_50_0_0.LogLog.png
+   :width: 20%
+
+.. image:: SRR9670822_SRR9670820.yeastGenes1000_50_0_0.LogLog.png
+   :width: 20%
+
+.. image:: SRR9670822_SRR9670820.yeastGenes2000_50_0_0.LogLog.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+Linear Regression Plots
+##########################
+
+Linear Regression Plots
+##########################
+
+
+.. image:: SRR9670822_SRR9670820.yeastGenes500_50_0_0.LR.png
+   :width: 20%
+
+.. image:: SRR9670822_SRR9670820.yeastGenes1000_50_0_0.LR.png
+   :width: 20%
+
+.. image:: SRR9670822_SRR9670820.yeastGenes2000_50_0_0.LR.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
+**Filtering based on End --end or -e**
+
+Here I use --end or -e as a cutoff for the last bin used in plotting, if e =0, all bins considered, if e = 10 then the last 10 bins are discarded in plottig.
+This is another way of discarding noise.
+
+Log Linear Plots
+###################
+
+
+.. image:: SRR9670822_SRR9670820_50_0_50.LogLinear.png
+   :width: 25%
+
+.. image:: SRR9670822_SRR9670820_50_0_100.LogLinear.png
+   :width: 25%
+
+.. image:: SRR9670822_SRR9670820_50_0_150.LogLinear.png
+   :width: 25%
+
+.. image:: SRR9670822_SRR9670820_50_0_200.LogLinear.png
+   :width: 25%
+
+.. raw:: html
+   <br />
+
+Log Log Plots
+###################
+
+
+.. image:: SRR9670822_SRR9670820_50_0_50.LogLog.png
+   :width: 25%
+
+.. image:: SRR9670822_SRR9670820_50_0_100.LogLog.png
+   :width: 25%
+
+.. image:: SRR9670822_SRR9670820_50_0_150.LogLog.png
+   :width: 25%
+
+.. image:: SRR9670822_SRR9670820_50_0_200.LogLog.png
+   :width: 25%
+
+.. raw:: html
+   <br />
+
+
+Linear Regression Plots
+#########################
+
+
+.. image:: SRR9670822_SRR9670820_50_0_50.LR.png
+   :width: 25%
+
+.. image:: SRR9670822_SRR9670820_50_0_100.LR.png
+   :width: 25%
+
+.. image:: SRR9670822_SRR9670820_50_0_150.LR.png
+   :width: 25%
+
+.. image:: SRR9670822_SRR9670820_50_0_200.LR.png
+   :width: 25%
+
+
+.. raw:: html
+   <br />
+
+
+**Filtering based on cutoff --cutoff or -c**
 
 Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
 
+Log Linear Plots
 
 .. image:: SRR9670822_SRR9670820_50_0.LogLinear.png 
    :width: 20%
@@ -94,38 +231,8 @@ Linear Regression
 
 
 
-**Stats**
-##########################
 
-
-**Adapters confirmed by Authors**
-
-+-------------+------------+------------------------+
-| Sample      | mRNA/FP    | Unique Alignment       |
-+=============+============+========================+
-| SRR9670814  |    mRNA    |       39.63%           |
-+-------------+------------+------------------------+
-| SRR9670815  |    mRNA    |       41.13%           |
-+-------------+------------+------------------------+
-| SRR9670816  |     FP     |       40.95%           |
-+-------------+------------+------------------------+
-| SRR9670817  |     FP     |       32.66%           | 
-+-------------+------------+------------------------+
-| SRR9670818  |     FP     |       29.31%           |
-+-------------+------------+------------------------+
-| SRR9670819  |     FP     |       26.56%           |
-+-------------+------------+------------------------+
-| SRR9670820  |    mRNA    |       32.21%           |
-+-------------+------------+------------------------+
-|  SRR9670821 |    mRNA    |       34.75%           |                                             
-+-------------+------------+------------------------+
-| SRR9670822  |     FP     |       34.26%           |
-+-------------+------------+------------------------+
-| SRR9670823  |     FP     |       35.40%           |
-+-------------+------------+------------------------+
-
-
-**GSE134152:TPM** 
+**TPM** 
 ##########################
 
 
@@ -221,105 +328,6 @@ Linear Regression
 
 .. raw:: html
    <br />
-
-**SNPs** 
-##########################
-
-
-Genes with Zero SNPs
-
-Histogram of Genes' Length 
-
-
-.. image:: SRR9670822_SRR9670820.SRR9670820_zerosnps.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR9670822_SRR9670820.SRR9670820_zerosnps_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-
-
-.. image:: SRR9670822_SRR9670820.SRR9670820_zerosnps_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-
-
-.. image:: SRR9670822_SRR9670820.SRR9670820_zerosnps_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
-
-
-Genes with at least one SNP
-
-Histogram of Genes' Length 
-
-
-.. image:: SRR9670822_SRR9670820.SRR9670820_1snps.Length.Histogram.png 
-   :width: 400 
-
-.. raw:: html
-   <br />
-
-Log Linear Plots 
-
-
-Where cutoff is the minimum no. of genes to support a position to be considered in bins. Max gene length is the longest gene considered corresponding to this cutoff. 
-
-
-.. image:: SRR9670822_SRR9670820.SRR9670820_1snps_50_0.LogLinear.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-Log Log Plots 
-
-
-.. image:: SRR9670822_SRR9670820.SRR9670820_1snps_50_0.LogLog.png 
-   :width: 400
-
-
-.. raw:: html
-   <br />
-
-
-Linear Regression 
-
-
-.. image:: SRR9670822_SRR9670820.SRR9670820_1snps_50_0.LR.png 
-   :width: 400
-
-.. raw:: html
-   <br />
-
-
-
 
 
 
@@ -1608,6 +1616,7 @@ Linear Regression
 
 .. raw:: html
    <br />
+
 
 
 
