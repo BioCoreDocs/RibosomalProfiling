@@ -1,5 +1,5 @@
 ====================================================
-**Dataset 1: GSE102837**
+**Dataset 1: GSE102837:GSM2747049/GSM2747048**
 ====================================================
 
 **SRR5945809/SRR5945808**
@@ -100,7 +100,6 @@ Log Linear Plots
 .. image:: SRR5945809_SRR5945808_50_0_200.LogLinear.png
    :width: 25%
 
-
 .. raw:: html
    <br />
 
@@ -120,10 +119,8 @@ Log Log Plots
 .. image:: SRR5945809_SRR5945808_50_0_200.LogLog.png
    :width: 25%
 
-
 .. raw:: html
    <br />
-
 
 
 Linear Regression Plots

@@ -13,7 +13,8 @@ Authors: Sherine Awad and Davide Chiarugi
    README.rst
    tutorial.rst 
    GSE102837.rst 
-   #GSE91068.rst
+   GSE91068_1.rst
+   GSE91068_2.rst
    #GSE13750.rst
    #GSE134152.rst
 
