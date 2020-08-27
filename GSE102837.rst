@@ -154,22 +154,22 @@ Log Linear Plots
 ###################
 
 
-.. image:: SRR5945809_SRR5945808_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808_50_0_0.LogLinear.png 
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_100.LogLinear.png  
+.. image:: SRR5945809_SRR5945808_50_100_0.LogLinear.png  
    :width: 20% 
 
-.. image:: SRR5945809_SRR5945808_50_200.LogLinear.png
+.. image:: SRR5945809_SRR5945808_50_200_0.LogLinear.png
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_500.LogLinear.png
+.. image:: SRR5945809_SRR5945808_50_500_0.LogLinear.png
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_1000.LogLinear.png
+.. image:: SRR5945809_SRR5945808_50_1000_0.LogLinear.png
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_2000.LogLinear.png
+.. image:: SRR5945809_SRR5945808_50_2000_0.LogLinear.png
    :width: 20%
 
 .. raw:: html
@@ -179,23 +179,23 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808_50_0_0.LogLog.png 
    :width: 20%
 
 
-.. image:: SRR5945809_SRR5945808_50_100.LogLog.png  
+.. image:: SRR5945809_SRR5945808_50_100_0.LogLog.png  
    :width: 20%  
 
-.. image:: SRR5945809_SRR5945808_50_200.LogLog.png  
+.. image:: SRR5945809_SRR5945808_50_200_0.LogLog.png  
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_500.LogLog.png
+.. image:: SRR5945809_SRR5945808_50_500_0.LogLog.png
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_1000.LogLog.png
+.. image:: SRR5945809_SRR5945808_50_1000_0.LogLog.png
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_2000.LogLog.png
+.. image:: SRR5945809_SRR5945808_50_2000_0.LogLog.png
    :width: 20%
 
 .. raw:: html
@@ -205,22 +205,22 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808_50_0_0.LR.png 
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_100.LR.png  
+.. image:: SRR5945809_SRR5945808_50_100_0.LR.png  
    :width: 20% 
 
-.. image:: SRR5945809_SRR5945808_50_200.LR.png
+.. image:: SRR5945809_SRR5945808_50_200_0.LR.png
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_500.LR.png
+.. image:: SRR5945809_SRR5945808_50_500_0.LR.png
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_1000.LR.png
+.. image:: SRR5945809_SRR5945808_50_1000_0.LR.png
    :width: 20%
 
-.. image:: SRR5945809_SRR5945808_50_2000.LR.png
+.. image:: SRR5945809_SRR5945808_50_2000_0.LR.png
    :width: 20%
 
 .. raw:: html
@@ -248,7 +248,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_g50_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_g50_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -258,7 +258,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_g50_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_g50_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -269,7 +269,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_g50_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_g50_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -294,7 +294,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_l50_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_l50_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -304,7 +304,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_l50_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_l50_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -315,7 +315,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_l50_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_l50_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -341,7 +341,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_zerosnps_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_zerosnps_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -351,7 +351,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_zerosnps_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_zerosnps_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -362,7 +362,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_zerosnps_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_zerosnps_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -386,7 +386,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_1snps_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_1snps_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -396,7 +396,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_1snps_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_1snps_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -407,7 +407,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.SRR5945808_1snps_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.SRR5945808_1snps_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -437,7 +437,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.GO_0006119_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -447,7 +447,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0006119_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -458,7 +458,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0006119_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.GO_0006119_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -484,7 +484,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.GO_0006406_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.GO_0006406_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -494,7 +494,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0006406_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.GO_0006406_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -505,7 +505,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0006406_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.GO_0006406_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -532,7 +532,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.GO_0006412_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.GO_0006412_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -542,7 +542,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0006412_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.GO_0006412_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -553,7 +553,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0006412_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.GO_0006412_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -580,7 +580,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.GO_0006950_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.GO_0006950_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -590,7 +590,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0006950_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.GO_0006950_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -601,7 +601,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0006950_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.GO_0006950_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -628,7 +628,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.GO_0009651_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.GO_0009651_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -638,7 +638,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0009651_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.GO_0009651_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -649,7 +649,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0009651_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.GO_0009651_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -676,7 +676,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.GO_0016458_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.GO_0016458_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -686,7 +686,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0016458_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.GO_0016458_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -697,7 +697,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0016458_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.GO_0016458_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -725,7 +725,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.GO_0031047_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.GO_0031047_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -735,7 +735,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0031047_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.GO_0031047_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -746,7 +746,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0031047_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.GO_0031047_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -774,7 +774,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.GO_0031990_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.GO_0031990_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -784,7 +784,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0031990_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.GO_0031990_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -795,7 +795,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0031990_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.GO_0031990_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -822,7 +822,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.GO_0042254_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.GO_0042254_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -832,7 +832,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0042254_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.GO_0042254_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -843,7 +843,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.GO_0042254_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.GO_0042254_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -869,7 +869,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastorthuman_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastorthuman_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -879,7 +879,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastorthuman_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastorthuman_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -890,7 +890,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastorthuman_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastorthuman_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -917,7 +917,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastortmouse_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastortmouse_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -927,7 +927,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastortmouse_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastortmouse_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -938,7 +938,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastortmouse_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastortmouse_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -969,7 +969,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrI_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrI_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -979,7 +979,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrI_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrI_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -990,7 +990,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrI_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrI_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1017,7 +1017,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrII_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1027,7 +1027,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrII_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1038,7 +1038,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrII_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1065,7 +1065,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrIII_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrIII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1075,7 +1075,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrIII_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrIII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1086,7 +1086,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrIII_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrIII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1113,7 +1113,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrIV_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrIV_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1123,7 +1123,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrIV_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrIV_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1134,7 +1134,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrIV_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrIV_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1161,7 +1161,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrIX_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrIX_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1171,7 +1171,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrIX_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrIX_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1182,7 +1182,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrIX_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrIX_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1209,7 +1209,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrVIII_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrVIII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1219,7 +1219,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrVIII_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrVIII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1230,7 +1230,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrVIII_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrVIII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1254,7 +1254,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrVII_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrVII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1264,7 +1264,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrVII_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrVII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1275,7 +1275,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrVII_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrVII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1300,7 +1300,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrVI_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrVI_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1310,7 +1310,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrVI_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrVI_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1321,7 +1321,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrVI_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrVI_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1345,7 +1345,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrV_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrV_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1355,7 +1355,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrV_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrV_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1366,7 +1366,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrV_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrV_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1393,7 +1393,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrXIII_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXIII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1403,7 +1403,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXIII_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXIII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1414,7 +1414,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXIII_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXIII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1438,7 +1438,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrXII_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1448,7 +1448,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXII_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1459,7 +1459,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXII_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1483,7 +1483,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrXI_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXI_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1493,7 +1493,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXI_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXI_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1504,7 +1504,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXI_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXI_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1527,7 +1527,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrXIV_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXIV_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1537,7 +1537,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXIV_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXIV_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1548,7 +1548,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXIV_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXIV_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1572,7 +1572,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrX_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrX_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1582,7 +1582,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrX_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrX_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1593,7 +1593,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrX_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrX_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1616,7 +1616,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrXVI_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXVI_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1626,7 +1626,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXVI_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXVI_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1637,7 +1637,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXVI_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXVI_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1660,7 +1660,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR5945809_SRR5945808.yeastchrXV_50_0.LogLinear.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXV_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1670,7 +1670,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXV_50_0.LogLog.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXV_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1681,7 +1681,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR5945809_SRR5945808.yeastchrXV_50_0.LR.png 
+.. image:: SRR5945809_SRR5945808.yeastchrXV_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
