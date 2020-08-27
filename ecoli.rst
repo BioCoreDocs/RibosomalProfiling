@@ -1,5 +1,5 @@
 ====================================================
-**Ecoli 1**
+**Ecoli 1:GSM1680887/GSM1680886**
 ====================================================
 
 
@@ -124,9 +124,6 @@ Log Linear Plots
 .. image:: SRR2016459_SRR2016458_50_0_150.LogLinear.png
    :width: 25%
 
-.. image:: SRR2016459_SRR2016458_50_0_200.LogLinear.png
-   :width: 25%
-
 .. raw:: html
    <br />
 
@@ -141,9 +138,6 @@ Log Log Plots
    :width: 25%
 
 .. image:: SRR2016459_SRR2016458_50_0_150.LogLog.png
-   :width: 25%
-
-.. image:: SRR2016459_SRR2016458_50_0_200.LogLog.png
    :width: 25%
 
 .. raw:: html
@@ -161,9 +155,6 @@ Linear Regression Plots
    :width: 25%
 
 .. image:: SRR2016459_SRR2016458_50_0_150.LR.png
-   :width: 25%
-
-.. image:: SRR2016459_SRR2016458_50_0_200.LR.png
    :width: 25%
 
 
