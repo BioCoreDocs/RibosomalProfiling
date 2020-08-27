@@ -31,6 +31,30 @@ Histogram of Genes' Length
 | SRR9670823  |     FP     |       35.40%           |
 +-------------+------------+------------------------+
 
+**Normal Plots** 
+
+Log Linear Plots 
+####################
+
+.. image:: SRR9670823_SRR9670821_50_0_0.LogLinear.png 
+   :width: 20%
+
+Log Log plots
+#################
+
+.. image:: SRR9670823_SRR9670821_50_0_0.LogLog.png
+   :width: 20%
+
+
+Linear Regression Plots 
+##########################
+
+.. image:: SRR9670823_SRR9670821_50_0_0.LR.png
+   :width: 20%
+
+
+.. raw:: html
+   <br />
 
 
 **Running on a subset of short genes using --subset or -s**
@@ -157,10 +181,6 @@ Where cutoff is the minimum no. of genes to support a position to be considered 
 Log Linear Plots 
 ###################
 
-
-.. image:: SRR9670823_SRR9670821_50_0_0.LogLinear.png 
-   :width: 20%
-
 .. image:: SRR9670823_SRR9670821_50_100_0.LogLinear.png  
    :width: 20% 
 
@@ -182,9 +202,6 @@ Log Linear Plots
 
 Log Log Plots 
 ###################
-
-.. image:: SRR9670823_SRR9670821_50_0_0.LogLog.png 
-   :width: 20%
 
 
 .. image:: SRR9670823_SRR9670821_50_100_0.LogLog.png  
@@ -208,9 +225,6 @@ Log Log Plots
 
 Linear Regression 
 ###################
-
-.. image:: SRR9670823_SRR9670821_50_0_0.LR.png 
-   :width: 20%
 
 .. image:: SRR9670823_SRR9670821_50_100_0.LR.png  
    :width: 20% 

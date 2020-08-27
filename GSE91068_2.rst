@@ -32,13 +32,20 @@ Histogram of Genes' Length
 
 **Normal Plots** 
 
+Log Linear Plots
+###################
+
 .. image:: SRR5090936_SRR5090934_50_0_0.LogLinear.png 
    :width: 20%
 
+Log Log Plots
+###################
 
-.. image:: SRR5090936_SRR5090934_50_0_0.LogLog.png
+   .. image:: SRR5090936_SRR5090934_50_0_0.LogLog.png
    :width: 20%
 
+Linear Regression Plots
+###########################
 
 .. image:: SRR5090936_SRR5090934_50_0_0.LR.png
    :width: 20%

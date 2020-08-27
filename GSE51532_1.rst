@@ -31,6 +31,31 @@ Histogram of Genes' Length
 | SRR1015436  |     FP     |        34.99%          |
 +-------------+------------+------------------------+
 
+**Normal Plots** 
+
+Log Linear Plots 
+#####################
+
+.. image:: SRR1015436_SRR1015442_50_0_0.LogLinear.png 
+   :width: 20%
+
+Log Log Plots
+##################
+
+.. image:: SRR1015436_SRR1015442_50_0_0.LogLog.png
+   :width: 20%
+
+
+Linear Regression Plots 
+###########################
+
+.. image:: SRR1015436_SRR1015442_50_0_0.LR.png
+   :width: 20%
+
+.. raw:: html
+   <br />
+
+
 
 
 **Running on a subset of short genes using --subset or -s**
@@ -158,9 +183,6 @@ Log Linear Plots
 ###################
 
 
-.. image:: SRR1015436_SRR1015442_50_0_0.LogLinear.png 
-   :width: 20%
-
 .. image:: SRR1015436_SRR1015442_50_100_0.LogLinear.png  
    :width: 20% 
 
@@ -182,9 +204,6 @@ Log Linear Plots
 
 Log Log Plots 
 ###################
-
-.. image:: SRR1015436_SRR1015442_50_0_0.LogLog.png 
-   :width: 20%
 
 
 .. image:: SRR1015436_SRR1015442_50_100_0.LogLog.png  
@@ -209,8 +228,6 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR1015436_SRR1015442_50_0_0.LR.png 
-   :width: 20%
 
 .. image:: SRR1015436_SRR1015442_50_100_0.LR.png  
    :width: 20% 
