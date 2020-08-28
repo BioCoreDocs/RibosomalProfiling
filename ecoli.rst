@@ -61,13 +61,13 @@ Log Linear Plots
 ###################
 
 
-.. image:: SRR2016459_SRR2016458.yeastGenes500_50_0_0.LogLinear.png
+.. image:: SRR2016459_SRR2016458.ecoliGenes500_50_0_0.LogLinear.png
    :width: 20%
 
-.. image:: SRR2016459_SRR2016458.yeastGenes1000_50_0_0.LogLinear.png
+.. image:: SRR2016459_SRR2016458.ecoliGenes1000_50_0_0.LogLinear.png
    :width: 20%
 
-.. image:: SRR2016459_SRR2016458.yeastGenes2000_50_0_0.LogLinear.png
+.. image:: SRR2016459_SRR2016458.ecoliGenes2000_50_0_0.LogLinear.png
    :width: 20%
 
 .. raw:: html
@@ -77,13 +77,13 @@ Log Log Plots
 ###################
 
 
-.. image:: SRR2016459_SRR2016458.yeastGenes500_50_0_0.LogLog.png
+.. image:: SRR2016459_SRR2016458.ecoliGenes500_50_0_0.LogLog.png
    :width: 20%
 
-.. image:: SRR2016459_SRR2016458.yeastGenes1000_50_0_0.LogLog.png
+.. image:: SRR2016459_SRR2016458.ecoliGenes1000_50_0_0.LogLog.png
    :width: 20%
 
-.. image:: SRR2016459_SRR2016458.yeastGenes2000_50_0_0.LogLog.png
+.. image:: SRR2016459_SRR2016458.ecoliGenes2000_50_0_0.LogLog.png
    :width: 20%
 
 .. raw:: html
@@ -93,13 +93,13 @@ Linear Regression Plots
 ##########################
 
 
-.. image:: SRR2016459_SRR2016458.yeastGenes500_50_0_0.LR.png
+.. image:: SRR2016459_SRR2016458.ecoliGenes500_50_0_0.LR.png
    :width: 20%
 
-.. image:: SRR2016459_SRR2016458.yeastGenes1000_50_0_0.LR.png
+.. image:: SRR2016459_SRR2016458.ecoliGenes1000_50_0_0.LR.png
    :width: 20%
 
-.. image:: SRR2016459_SRR2016458.yeastGenes2000_50_0_0.LR.png
+.. image:: SRR2016459_SRR2016458.ecoliGenes2000_50_0_0.LR.png
    :width: 20%
 
 .. raw:: html
@@ -866,7 +866,7 @@ Linear Regression
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastorthuman.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecoliorthuman.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -877,7 +877,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastorthuman_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecoliorthuman_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -887,7 +887,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastorthuman_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecoliorthuman_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -898,7 +898,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastorthuman_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecoliorthuman_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -914,7 +914,7 @@ Linear Regression
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastortmouse.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecoliortmouse.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -925,7 +925,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastortmouse_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecoliortmouse_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -935,7 +935,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastortmouse_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecoliortmouse_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -946,7 +946,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastortmouse_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecoliortmouse_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -966,7 +966,7 @@ ChrI
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrI.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrI.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -977,7 +977,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrI_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrI_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -987,7 +987,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrI_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrI_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -998,7 +998,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrI_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrI_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1014,7 +1014,7 @@ ChrII
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrII.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrII.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1025,7 +1025,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrII_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1035,7 +1035,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrII_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1046,7 +1046,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrII_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1062,7 +1062,7 @@ ChrIII
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrIII.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIII.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1073,7 +1073,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrIII_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1083,7 +1083,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrIII_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1094,7 +1094,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrIII_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1110,7 +1110,7 @@ ChrIV
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrIV.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIV.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1121,7 +1121,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrIV_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIV_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1131,7 +1131,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrIV_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIV_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1142,7 +1142,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrIV_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIV_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1158,7 +1158,7 @@ ChrIX
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrIX.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIX.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1169,7 +1169,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrIX_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIX_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1179,7 +1179,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrIX_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIX_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1190,7 +1190,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrIX_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrIX_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1206,7 +1206,7 @@ ChrVIII
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrVIII.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVIII.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1217,7 +1217,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrVIII_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVIII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1227,7 +1227,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrVIII_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVIII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1238,7 +1238,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrVIII_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVIII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1251,7 +1251,7 @@ ChrVII
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrVII.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVII.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1262,7 +1262,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrVII_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1272,7 +1272,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrVII_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1283,7 +1283,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrVII_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1297,7 +1297,7 @@ ChrVI
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrVI.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVI.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1308,7 +1308,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrVI_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVI_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1318,7 +1318,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrVI_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVI_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1329,7 +1329,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrVI_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrVI_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1342,7 +1342,7 @@ ChrV
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrV.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrV.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1353,7 +1353,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrV_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrV_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1363,7 +1363,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrV_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrV_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1374,7 +1374,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrV_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrV_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1390,7 +1390,7 @@ ChrXIII
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXIII.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXIII.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1401,7 +1401,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrXIII_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXIII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1411,7 +1411,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXIII_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXIII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1422,7 +1422,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXIII_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXIII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1435,7 +1435,7 @@ ChrXII
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXII.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXII.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1446,7 +1446,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrXII_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXII_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1456,7 +1456,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXII_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXII_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1467,7 +1467,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXII_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXII_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1480,7 +1480,7 @@ ChrXI
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXI.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXI.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1491,7 +1491,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrXI_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXI_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1501,7 +1501,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXI_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXI_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1512,7 +1512,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXI_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXI_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1524,7 +1524,7 @@ ChrXIV
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXIV.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXIV.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1535,7 +1535,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrXIV_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXIV_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1545,7 +1545,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXIV_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXIV_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1556,7 +1556,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXIV_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXIV_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1569,7 +1569,7 @@ ChrX
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrX.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrX.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1580,7 +1580,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrX_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrX_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1590,7 +1590,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrX_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrX_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1601,7 +1601,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrX_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrX_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1613,7 +1613,7 @@ ChrXVI
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXVI.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXVI.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1624,7 +1624,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrXVI_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXVI_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1634,7 +1634,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXVI_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXVI_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1645,7 +1645,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXVI_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXVI_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
@@ -1657,7 +1657,7 @@ ChrXV
 Histogram of Genes' Length 
 ###############################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXV.Length.Histogram.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXV.Length.Histogram.png 
    :width: 400 
 
 .. raw:: html
@@ -1668,7 +1668,7 @@ Log Linear Plots
 
 
 
-.. image:: SRR2016459_SRR2016458.yeastchrXV_50_0_0.LogLinear.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXV_50_0_0.LogLinear.png 
    :width: 400
 
 .. raw:: html
@@ -1678,7 +1678,7 @@ Log Linear Plots
 Log Log Plots 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXV_50_0_0.LogLog.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXV_50_0_0.LogLog.png 
    :width: 400
 
 
@@ -1689,7 +1689,7 @@ Log Log Plots
 Linear Regression 
 ###################
 
-.. image:: SRR2016459_SRR2016458.yeastchrXV_50_0_0.LR.png 
+.. image:: SRR2016459_SRR2016458.ecolichrXV_50_0_0.LR.png 
    :width: 400
 
 .. raw:: html
